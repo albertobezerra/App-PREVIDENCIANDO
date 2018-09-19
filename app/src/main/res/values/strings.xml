@@ -1,0 +1,691 @@
+<resources>
+    <string name="app_name">Previdenciando</string>
+
+    <string name="banner">ca-app-pub-7979689703488774/1516106440</string>
+    <string name="inters">ca-app-pub-7979689703488774/2992839640</string>
+
+
+    <string name="aux_reclusao">
+
+        O auxílio reclusão é um benefício devido apenas aos dependentes do segurado do INSS preso em regime fechado ou semiaberto, durante o período de reclusão ou detenção.
+        O segurado não pode estar recebendo salário, nem outro benefício do INSS.
+        \n\nPara que os dependentes tenham direito, é necessário que o último salário recebido pelo trabalhador esteja dentro do limite previsto pela legislação (atualmente, R$ 1.319,18).
+        Caso o último salário do segurado esteja acima deste valor, não há direito ao benefício.
+
+        \n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+        \n\nA pessoa reclusa precisa:
+
+       	\n\n• Possuir qualidade de segurado na data da prisão (ou seja, estar trabalhando e contribuindo regularmente).
+       	\n\n• Estar recluso em regime fechado ou semiaberto.
+       	\n\n• Possuir o último salário de contribuição abaixo do valor R$ 1.319,18.
+
+       	\n\n\nO requerente precisa:
+
+   		\n\n• <b>Para cônjuge ou companheira:</b> comprovar casamento ou união estável na data da reclusão.
+   		\n\n• <b>Para filhos e equiparados:</b> possuir menos de 21 anos de idade. Se for inválido, a idade não entra em critério.
+		\n\n• <b>Para os pais:</b> comprovar dependência econômica.
+		\n\n• <b>Para os irmãos:</b> comprovar dependência econômica e idade inferior a 21 anos de idade, salvo se for inválido ou com deficiência.
+
+		\n\n\n<b>NOTA: Para os dependentes, existe uma prioridade de solicitação. Se a pessoa reclusa possuir esposa (o) e/ou filhos, o mérito de solicitar o benefício são deles. Na inexistência deles passa-se para os pais e na inexistência dos pais, passa para os irmãos. </b>
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nPara identificação de qualquer dos dependentes acima de 16 anos, será necessária a apresentação do documento de identificação com foto e o CPF.
+
+		\n\nPara os menores de 16 anos e desde que não seja o titular do requerimento de benefício, a apresentação do documento de identificação e do CPF será opcional.
+
+		\n\nSerá necessária ainda, a apresentação dos seguintes documentos conforme o caso:
+
+		\n\n<b>Cônjuge/filhos</b>
+		\nCertidão de casamento/nascimento
+ 
+
+		\n\n<b>Companheiro (a)</b>
+		\nCertidão de casamento com averbação da separação judicial ou divórcio ou de certidão óbito, se for o caso (para os casos em que um dos companheiros ou ambos já tiverem sido casados)
+
+
+		\n\n<b>Equiparado a filho</b>
+		\nCertidão judicial de tutela (para o menor tutelado) ou Certidão de nascimento (para o enteado) e a certidão de casamento do segurado ou provas de união estável entre o(a) segurado(a) e o(a) genitor(a) do enteado e Declaração de não emancipação e Comprovação de dependência econômica do tutelado ou enteado.
+		 
+		\n\n<b>Pais</b>
+		\nCertidão de nascimento do segurado que deu origem ao benefício (instituidor)
+		\nDeclaração de inexistência de dependentes preferenciais
+		\nComprovação de dependência econômica
+		 
+
+		\n\n<b>Irmãos</b>
+		\nCertidão de nascimento
+		\nDeclaração de inexistência de dependentes preferenciais
+		\nComprovação de dependência econômica
+
+		\n\n<b>Dependência econômica ou união estável</b>
+		\nEsposa(o) e filhos não precisarão comprovar dependência econômica uma vez que a legislação coloca esta condição como presumida.
+
+		\n\nJá os demais dependentes listados nas classes seguintes, bem como o enteado e o menor tutelado, têm a obrigatoriedade desta comprovação e poderão fazê-la com a apresentação de no mínimo 3 dos seguintes documentos:
+
+		\n\n• Certidão de nascimento de filho havido em comum.
+		\n\n• Certidão de casamento Religioso.
+		\n\n• Declaração do imposto de renda do segurado, em que conste o interessado como seu dependente.
+		\n\n• Disposições testamentárias.
+		\n\n• Declaração especial feita perane tabelião (escritura pública declaratória de dependência econômica).
+		\n\n• Prova de mesmo domicílio.
+		\n\n• Prova de encargos domésticos evidentes e existência de sociedade ou comunhão nos atos da vida civil.
+		\n\n• Procuração ou fiança reciprocamente outorgada.
+		\n\n• Conta bancária conjunta.
+		\n\n• Registro em associação de qualquer natureza onde conste o interessado como dependente do segurado.
+		\n\n• Anotação constante de ficha ou Livro de Registro de empregados.
+		\n\n• Apólice de seguro da qual conste o segurado como instituidor do seguro e a pessoa interessada como sua beneficiária.
+		\n\n• Ficha de tratamento em instituição de assistência médica da qual conste o segurado como responsável.
+		\n\n• Escritura de compra e venda de imóvel pelo segurado em nome do dependente.
+		\n\n• Declaração de não emancipação do dependente menor de vinte e um anos.
+		\n\n• Quaisquer outros documentos que possam levar à convicção do fato a comprovar.
+
+		\n\nNa impossibilidade de serem apresentados 3 dos documentos listados, mas desde que haja pelo menos 1 (um) documento consistente, o requerente do benefício poderá solicitar o procedimento de Justificação Administrativa para fins de comprovação.
+
+
+		\n\n\n<b>DURAÇÃO DO BENEFÍCIO</b>
+
+		\n\nSe na reclusão o segura possuir menos de 18 contribuições ou o dependente possuir menos de 2 anos de casamento ou união estável o benefício será de 18 meses.
+
+		\n\nSe na reclusão, o dependente possuir menos de 21 anos: 3 anos de benefício.
+		\n\nSe na reclusão, o dependente possuir entre 21 e 26 anos: 6 anos de benefício.
+		\n\nSe na reclusão, o dependente possuir entre 27 e 29 anos: 10 anos de benefício.
+		\n\nSe na reclusão, o dependente possuir entre 30 e 40 anos: 15 anos de benefício.
+		\n\nSe na reclusão, o dependente possuir entre 41 e 43 anos: 20 anos de benefício.
+		\n\nSe na reclusão, o dependente possuir apartir de 44 anos: vitálicio.
+
+    </string>
+
+
+    <string name="aux_acidentario">
+
+    	O auxílio acidente é um benefício de natureza indenizatória pago ao segurado do INSS quando, em decorrência de acidente, apresentar sequela permanente que reduza sua capacidade para o trabalho. Essa situação é avaliada pela perícia médica do INSS.
+
+		\n\nComo se trata de uma indenização, não impede o cidadão de continuar trabalhando.
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\n• Ter qualidade de segurado, à época do acidente.
+		\n\n• Não há necessidade de cumprimento de período de carência.
+		\n\n• Ser filiado, à época do acidente, como:
+		\nEmpregado Urbano/Rural (empresa)
+		\nEmpregado Doméstico (para acidentes ocorridos a partir de 01/06/2015)
+		\nTrabalhador Avulso (empresa)
+		\nSegurado Especial (trabalhador rural)
+
+		\n\n\n<b>NOTA</b>
+		\n\nEsse solicitação é feita direto na agência do INSS. Não agendável pelo site ou pela Central 135.
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+		
+		\n\nRG, CPF e documentos médicos sobre o acidente sofrido e seu tratamento: atestados, exames, relatório, entre outros.
+
+
+
+	</string>
+
+
+    <string name="pensao_urbana">
+
+		A pensão por morte é um benefício pago aos dependentes do segurado do INSS, que vier a falecer ou, em caso de desaparecimento, tiver sua morte presumida declarada judicialmente.
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\nO falecido deve está na qualidade de segurado na data do óbito.
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+		\n\nRG e CPF do requerente e do falecido e certidão de óbito.
+
+
+		\n\n\n<b>DURAÇÃO DO BENEFÍCIO</b>
+
+		\n\nSe no óbito o segura possuir menos de 18 contribuições ou o dependente possuir menos de 2 anos de casamento ou união estável o benefício será de 18 meses.
+
+		\n\nSe no óbito, o dependente possuir menos de 21 anos: 3 anos de benefício.
+		\n\nSe no óbito, o dependente possuir entre 21 e 26 anos: 6 anos de benefício.
+		\n\nSe no óbito, o dependente possuir entre 27 e 29 anos: 10 anos de benefício.
+		\n\nSe no óbito, o dependente possuir entre 30 e 40 anos: 15 anos de benefício.
+		\n\nSe no óbito, o dependente possuir entre 41 e 43 anos: 20 anos de benefício.
+		\n\nSe no óbito, o dependente possuir apartir de 44 anos: vitálicio.
+
+
+
+	</string>
+
+
+    <string name="pensao_rural">
+
+		A pensão por morte é um benefício pago aos dependentes do segurado do INSS, que vier a falecer ou, em caso de desaparecimento, tiver sua morte presumida declarada judicialmente.
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\nO falecido deve está na qualidade de segurado na data do óbito.
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+		\n\nRG e CPF do requerente e do falecido e certidão de óbito e documentos que comprove a condição de rural da pessoa falecida.
+
+
+		\n\n\n<b>DURAÇÃO DO BENEFÍCIO</b>
+
+		\n\nSe no óbito o segura possuir menos de 18 contribuições ou o dependente possuir menos de 2 anos de casamento ou união estável o benefício será de 18 meses.
+
+		\n\nSe no óbito, o dependente possuir menos de 21 anos: 3 anos de benefício.
+		\n\nSe no óbito, o dependente possuir entre 21 e 26 anos: 6 anos de benefício.
+		\n\nSe no óbito, o dependente possuir entre 27 e 29 anos: 10 anos de benefício.
+		\n\nSe no óbito, o dependente possuir entre 30 e 40 anos: 15 anos de benefício.
+		\n\nSe no óbito, o dependente possuir entre 41 e 43 anos: 20 anos de benefício.
+		\n\nSe no óbito, o dependente possuir a partir de 44 anos: vitálicio.
+
+
+
+	</string>
+
+    <string name="pensao_alimenticia">
+
+	A pensão alimentícia não é um benefício previdenciário. Neste caso é um procedimento adotado pelo INSS mediante ofício judicial. Não requer agendamento. Está solicitação é feita junto a agência do INSS.
+
+	</string>
+
+    <string name="loas_idoso">
+		
+		O Benefício da Prestação Continuada (BPC) da Lei Orgânica da Assistência Social (LOAS) é a garantia de um salário mínimo mensal ao idoso com 65 anos ou mais que comprovem não possuir meios de prover a própria manutenção, nem de tê-la provida por sua família.
+
+		\n\n\Para ter direito, é necessário que a renda por pessoa do grupo familiar seja menor que 1/4 do salário-mínimo vigente.
+		Por se tratar de um benefício assistencial, não é necessário ter contribuído ao INSS para ter direito. No entanto, este benefício não paga 13º salário e não deixa pensão por morte.
+
+		\n\nInforme-se no CRAS: o cidadão pode procurar o CRAS (Centro de Referência de Assistência Social) mais próximo da sua residência para esclarecer dúvidas sobre os critérios do benefício e sobre sua renda familiar, além de receber orientação sobre o preenchimento dos formulários necessários.
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+		\n\nRenda inferior a 1/4 do salário-mínimo vigente.
+		\nCadÚnico atualizado nos últimos dois anos.
+		\nIdade mínima de 65 anos, independente do gênero.
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\n<b>DO REQUERENTE</b>
+
+		\n\nRG
+		\nCPF
+		\nComprovante de residência atual
+		\nCertidão de nascimento ou casamento
+		\nComprovante de rendimento
+		\nCertidão de óbito, se for o caso
+		\n\nTutala, nos casos de menores de 18 anos, filhos de pais falecidos, desaparecidos ou destituídos do poder familiar
+		\n\nRequerimento do beneficio de pestação continuada da assistência social e composição do grupo familiar (DOCUMENTO OBRIGATÓRIO | Disponível no site do inss.gov.br ou em qualquer agência do INSS)
+		\n\nDeclaração de renda do grupo grupo familiar (DOCUMENTO OBRIGATÓRIO | Disponível no site do inss.gov.br ou em qualquer agência do INSS)
+		\n\nFormulário único da alteração da situação do benefício (DOCUMENTO OBRIGATÓRIO SE JÁ RECEBER ALGUM BENEFÍCIO E DESEJA RENUNCIAR | Disponível no site do inss.gov.br ou em qualquer agência do INSS)
+
+		\n\n<b>DOS MEMBROS DO GRUPO FAMILIAR</b>
+
+		\n\nRG (Se for menor de 16 anos, levar certidão de nascimento)
+		\nCPF
+		\nComprovante de rendimento
+		\nNIT/PIS/PASEP
+
+
+
+	</string>
+
+    <string name="loas_deficiente">
+
+		O Benefício da Prestação Continuada (BPC) da Lei Orgânica da Assistência Social (LOAS) é a garantia de um salário mínimo mensal à pessoa com deficiência que comprovem não possuir meios de prover a própria manutenção, nem de tê-la provida por sua família.
+
+		\n\n\Para ter direito, é necessário que a renda por pessoa do grupo familiar seja menor que 1/4 do salário-mínimo vigente.
+		Por se tratar de um benefício assistencial, não é necessário ter contribuído ao INSS para ter direito. No entanto, este benefício não paga 13º salário e não deixa pensão por morte.
+
+		\n\nInforme-se no CRAS: o cidadão pode procurar o CRAS (Centro de Referência de Assistência Social) mais próximo da sua residência para esclarecer dúvidas sobre os critérios do benefício e sobre sua renda familiar, além de receber orientação sobre o preenchimento dos formulários necessários.
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+		\n\nRenda inferior a 1/4 do salário-mínimo vigente.
+		\nCadÚnico atualizado nos últimos dois anos.
+		\nPossuir atestado/laudo médico.
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\n<b>DO REQUERENTE</b>
+
+		\n\nRG
+		\nCPF
+		\nComprovante de residência atual
+		\nAtestado/Laudo Médico
+		\nCertidão de nascimento ou casamento
+		\nComprovante de rendimento
+		\nCertidão de óbito, se for o caso
+		\nTutala, nos casos de menores de 18 anos, filhos de pais falecidos, desaparecidos ou destituídos do poder familiar
+		\n\nRequerimento do beneficio de pestação continuada da assistência social e composição do grupo familiar (DOCUMENTO OBRIGATÓRIO | Disponível no site do inss.gov.br ou em qualquer agência do INSS)
+		\n\nDeclaração de renda do grupo grupo familiar (DOCUMENTO OBRIGATÓRIO | Disponível no site do inss.gov.br ou em qualquer agência do INSS)
+		\n\nFormulário único da alteração da situação do benefício (DOCUMENTO OBRIGATÓRIO SE JÁ RECEBER ALGUM BENEFÍCIO E DESEJA RENUNCIAR | Disponível no site do inss.gov.br ou em qualquer agência do INSS)
+
+		\n\n<b>DOS MEMBROS DO GRUPO FAMILIAR</b>
+
+		\n\nRG (Se for menor de 16 anos, levar certidão de nascimento)
+		\nCPF
+		\nComprovante de rendimento
+		\nNIT/PIS/PASEP
+		
+
+
+	</string>
+
+    <string name="maternidade_urbano">
+
+		O salário maternidade é um benefício pago aos segurados no caso de nascimento de filho, de adoção de criança, nati-morto ou aborto.
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\n10 meses: para o trabalhador, Contribuinte Individual, Facultativo.
+		\n\nIsento: para segurados Empregado, Empregado Doméstico e Trabalhador Avulso (que estejam em atividade na data do afastamento, parto, adoção ou guarda com a mesma finalidade).
+		\n\nPara as desempregados: é necessário comprovar a qualidade de segurado do INSS e, conforme o caso, cumprir carência de 10 meses trabalhados.
+		\n\nCaso tenha perdido a qualidade de segurado, deverá cumprir metade da carência de 10 meses antes do parto/evento gerador do benefício.
+		
+
+		\n\n\n<b>DURAÇÃO DO BENEFÍCIO</b>
+
+		\n\n120 dias no caso de parto;
+		\n\n120 dias no caso de adoção ou guarda judicial para fins de adoção, independentemente da idade do adotado que deverá ter no máximo 12 anos de idade;
+		\n\n120 dias, no caso de natimorto;
+		\n\n14 dias, no caso de aborto espontâneo ou previstos em lei (estupro ou risco de vida para a mãe), a critério médico.
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+		\n\nNos dias atuais, a solicitação do salário maternidade urbano é feito à distância não sendo necessário levar documentação na agência do INSS. Todavia, existe situações que é nessário cumprir exigências solicitadas pelo INSS.
+
+		\n\nO trabalhador desempregado deve, obrigatoriamente, apresentar a certidão de nascimento ou de natimorto do dependente.
+		\n\nO trabalhador que se afasta 28 dias antes do parto deve apresentar atestado médico original, específico para gestante.
+		\n\nEm caso de guarda, deve apresentar o Termo de Guarda com a indicação de que a guarda destina-se à adoção.
+		\n\nEm caso de adoção, deverá apresentar a nova certidão de nascimento expedida após a decisão judicial.
+
+		\n\n\n<b>QUANDO PEDIR?</b>
+
+		\n\nEm caso de parto
+
+		\n\nNa condição de empregado: solicitar direto na empresa a partir do 8 mês.
+		\n\nNa condição de desempregado: solicitar pela Central 135, site do INSS ou Meu INSS no celular quando a criança nascer.
+		\n\nNas demais categorias: solicitar pela Central 135, site do INSS ou Meu INSS no celular a partir do 8 mês.
+
+		\n\n\nEm caso de adoção: solicitar a partir da adoção ou guarda para fins de adoção.
+
+		\n\nNa condição de aborto não-criminoso
+
+		\n\nNa condição de empregado: solicitar direto na empresa a partir da ocorrência do aborto.
+		\n\nNas demais categorias: solicitar pela Central 135, site do INSS ou Meu INSS no celular a partir da ocorrência do aborto.
+
+
+	</string>
+
+    <string name="maternidade_rural">
+
+		O salário maternidade é um benefício pago aos segurados no caso de nascimento de filho, de adoção de criança, nati-morto ou aborto.
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\n10 meses de atividade rural
+		
+		\n\n\n<b>DURAÇÃO DO BENEFÍCIO</b>
+
+		\n\n120 dias no caso de parto;
+		\n\n120 dias no caso de adoção ou guarda judicial para fins de adoção, independentemente da idade do adotado que deverá ter no máximo 12 anos de idade;
+		\n\n120 dias, no caso de natimorto;
+		\n\n14 dias, no caso de aborto espontâneo ou previstos em lei (estupro ou risco de vida para a mãe), a critério médico.
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+		\n\nRG
+		\nCPF
+		\nComprovante de residência atual
+		\nCertidão de nascimento da criança
+		\nDocumentos que comprovem a condição de segurado rural
+
+		\n\n\n<b>QUANDO PEDIR?</b>
+
+		\n\nEm caso de parto
+
+		\n\nNa condição de empregado: solicitar direto na empresa a partir do 8 mês.
+		\n\nNa condição de desempregado: solicitar pela Central 135, site do INSS ou Meu INSS no celular quando a criança nascer.
+		\n\nNas demais categorias: solicitar pela Central 135, site do INSS ou Meu INSS no celular a partir do 8 mês.
+
+		\n\n\nEm caso de adoção: solicitar a partir da adoção ou guarda para fins de adoção.
+
+		\n\nNa condição de aborto não-criminoso
+
+		\n\nNa condição de empregado: solicitar direto na empresa a partir da ocorrência do aborto.
+		\n\nNas demais categorias: solicitar pela Central 135, site do INSS ou Meu INSS no celular a partir da ocorrência do aborto.
+
+	</string>
+
+
+    <string name="aux_doenca_previdenciario">
+
+		O Auxílio Doença Previdenciário é um benefício por incapacidade devido ao segurado do INSS que comprove, em perícia médica, estar temporariamente incapaz para o trabalho em decorrência de doença.
+
+		\n\nCaso o segurado não possa comparecer à perícia médica no dia e hora agendados, ele pode solicitar a remarcação, uma única vez, até três dias antes da data agendada, pela Central 135 ou comparecendo diretamente à Agência da Previdência Social.
+
+		\n\nEm casos de internação hospitalar ou restrição ao leito (acamado), o prazo para remarcação é de sete dias antes ou até a data agendada, sendo necessário o comparecimento do representante legal à Agência do INSS.
+
+		\n\nSe o segurado não comparecer na data agendada ou não efetivar a remarcação da perícia médica ou solicitar o cancelamento do requerimento, ficará impossibilitado de requerer novamente benefício pelos próximos 30 dias.
+
+		\n\nNos últimos 15 dias do auxílio doença, caso julgue que o prazo inicialmente concedido para a recuperação se revelou insuficiente para retorno ao trabalho, o segurado poderá solicitar a prorrogação do benefício pela Central 135, internet ou comparecendo em uma agência do INSS.
+
+		\n\nCaso não concorde com o indeferimento ou a cessação do benefício e não seja mais possível solicitar prorrogação, o segurado pode entrar com recurso à Junta de Recursos, em até 30 dias contados a partir da data em que tomar ciência da decisão do INSS.
+
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\nEstar na qualidade de segurado
+		\nTer 12 contribuições ao INSS
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nNIT, PIS, PASEP
+		\nRG
+		\nCPF
+		\nCarteira de Trabalho e Previdência Social
+		\nComprovante de contribuição
+		\nComprovante de residência atual
+		\n\nAtestados, exames laboratóriais e imagens e laúdos médicos.
+		\n\nRecibos de salários gerados pelo E-socil (em caso de empregado doméstico).
+		\n\nDeclaração da empresa assinada e carimbada com a data do último dia trabalhado (para empregado de empresa).
+		\n\nSe possuir filhos menores de 14 anos: até 6 anos > certidão de nascimento e carteira de vacinação; a partir de 7 anos > certidão de nascimento e comprovante de frequência escolar (para empregado de empresa).
+
+		\n\n\nOBS: LEVAR TODA DOCUMENTAÇÃO ORIGINAL E CÓPIA.
+
+
+		\n\n\n<b>DURAÇÃO DO BENEFÍCIO</b>
+		\n\nA mesma é determinada pelo médico perito do INSS.
+
+		\n\n\nÉ possível solicitar pelo site do INSS, Central 135 ou aplicativo Meu INSS no celular.
+
+
+	</string>
+
+
+    <string name="aux_doenca_acidentario">
+
+		O Auxílio Doença Acidentário é um benefício por incapacidade devido ao segurado do INSS que comprove, em perícia médica, estar temporariamente incapaz para o trabalho em decorrência de acidente de trabalho.
+
+		\n\nCaso o segurado não possa comparecer à perícia médica no dia e hora agendados, ele pode solicitar a remarcação, uma única vez, até três dias antes da data agendada, pela Central 135 ou comparecendo diretamente à Agência da Previdência Social.
+
+		\n\nEm casos de internação hospitalar ou restrição ao leito (acamado), o prazo para remarcação é de sete dias antes ou até a data agendada, sendo necessário o comparecimento do representante legal à Agência do INSS.
+
+		\n\nSe o segurado não comparecer na data agendada ou não efetivar a remarcação da perícia médica ou solicitar o cancelamento do requerimento, ficará impossibilitado de requerer novamente benefício pelos próximos 30 dias.
+
+		\n\nNos últimos 15 dias do auxílio doença, caso julgue que o prazo inicialmente concedido para a recuperação se revelou insuficiente para retorno ao trabalho, o segurado poderá solicitar a prorrogação do benefício pela Central 135, internet ou comparecendo em uma agência do INSS.
+
+		\n\nCaso não concorde com o indeferimento ou a cessação do benefício e não seja mais possível solicitar prorrogação, o segurado pode entrar com recurso à Junta de Recursos, em até 30 dias contados a partir da data em que tomar ciência da decisão do INSS.
+
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\nEstar na qualidade de segurado
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nNIT, PIS, PASEP
+		\nRG
+		\nCPF
+		\nCarteira de Trabalho e Previdência Social
+		\nComprovante de contribuição
+		\nComprovante de residência atual
+		\n\nAtestados, exames laboratóriais e imagens e laúdos médicos.
+		\n\nRecibos de salários gerados pelo E-socil (em caso de empregado doméstico).
+		\n\nDeclaração da empresa assinada e carimbada com a data do último dia trabalhado (para empregado de empresa).
+		\n\nComunicação de Acidente de Trabalho - CAT
+		\n\nSe possuir filhos menores de 14 anos: até 6 anos > certidão de nascimento e carteira de vacinação; a partir de 7 anos > certidão de nascimento e comprovante de frequência escolar (para empregado de empresa).
+
+		\n\n\nOBS: LEVAR TODA DOCUMENTAÇÃO ORIGINAL E CÓPIA.
+
+		\n\n\n<b>DURAÇÃO DO BENEFÍCIO</b>
+		\n\nA mesma é determinada pelo médico perito do INSS.
+
+		\n\n\nÉ possível solicitar pelo site do INSS, Central 135 ou aplicativo Meu INSS no celular.
+
+
+	</string>
+
+
+    <string name="apo_invalidez">
+
+		A aposentadoria por invalidez é um benefício devido ao trabalhador permanentemente incapaz de exercer qualquer atividade laborativa e que também não possa ser reabilitado em outra profissão, de acordo com a avaliação da perícia médica do INSS.
+
+		\n\nO benefício é pago enquanto persistir a invalidez e o segurado pode ser reavaliado pelo INSS a cada dois anos.
+
+		\n\nInicialmente o cidadão deve requerer um auxílio-doença, que possui os mesmos requisitos da aposentadoria por invalidez. Caso a perícia médica constate incapacidade permanente para o trabalho, sem possibilidade de reabilitação para outra função, a aposentadoria por invalidez será indicada.
+
+		\n\nNão existe uma agendamento para aposentadoria por invalidez, ela é decorrente do auxílio doença.
+
+
+	</string>
+
+    <string name="apo_idade_deficiente">
+
+
+		A aposentadoria por idade da pessoa com deficiência é um benefício devido ao cidadão que comprovar o mínimo de 180 meses trabalhados na condição de pessoa com deficiência, além da idade mínima de 60 anos, se homem, ou 55 anos, se mulher.
+
+		\n\nÉ considerada pessoa com deficiência, de acordo com a Lei Complementar n° 142/2013, aquela que tem impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial que, em interação com diversas barreiras, impossibilitem sua participação de forma plena e efetiva na sociedade, em igualdade de condições com as demais pessoas.
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\nIdade mínima de 60 anos, se homem, ou 55 se mulher
+		\n\nSer pessoa com deficiência, no momento do pedido do benefício, comprovando esta condição mediante avaliação da perícia médica e do serviço social INSS.
+		\n\nPossuir tempo mínimo trabalhado de 180 meses efetivamente trabalhados na condição de pessoa com deficiência.
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nDocumento de identificação válido e oficial com foto;
+		\nNúmero do CPF;
+		\n\nCarteiras de trabalho, carnês de contribuição e outros documentos que comprovem pagamento ao INSS;
+		\n\nDocumentos que comprovem a deficiência e a data em que esta condição se iniciou.
+
+		\n\n\nÉ possível solicitar pelo site do INSS, Central 135 ou aplicativo Meu INSS no celular.
+
+	</string>
+
+    <string name="apo_tempo_professor">
+
+		A aposentadoria por tempo de contribuição do professor é um benefício devido ao profissional que exercidos exclusivamente em funções de magistério em estabelecimentos de Educação Básica (educação infantil, ensino fundamental e médio).
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\n30 anos contribuídos para homem.
+		\n25 anos contribuídos para mulher.
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nRG
+		\nCPF
+		\nDocumentos que comprovem o tempo contribuído
+		\nDocumentos que comprovem o tempo de atividade do magistério. 
+
+		\n\n\nÉ possível solicitar pelo site do INSS, Central 135 ou aplicativo Meu INSS no celular.
+
+
+	</string>
+
+
+    <string name="apo_tempo_deficiente">
+
+		A aposentadoria por tempo de contribuição da pessoa com deficiência é devida ao cidadão, que uma vez cumprida carência de 180 contribuições, alcance os outros requisitos, conforme o seu grau de deficiência.
+
+		\n\nÉ considerada pessoa com deficiência, de acordo com Lei Complementar 142/2013, aquela que tem impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial que, em interação com diversas barreiras, impossibilitem sua participação de forma plena e efetiva na sociedade, em igualdade de condições com as demais pessoas.
+
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\nAlém de ser pessoa com deficiência no momento do pedido, é necessário comprovar as seguintes condições para ter direito a este benefício:
+
+		\n\nGrau de deficiência:
+
+		\n<b>Leve:</b> Homem: 33 anos | Mulher: 28 anos
+		\n<b>Moderada:</b> Homem: 29 anos | Mulher: 24 anos
+		\n<b>Grave:</b> Homem: 25 anos | Mulher: 20 anos
+
+		\n\n<b>OBS: Independente do grau de deficiência é necessário possuir 180 meses contribuídos</b>
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nPara ser atendido nas agências do INSS, deve apresentar um documento de identificação com foto e o número do CPF. É importante que você apresente documentos que comprovem os períodos trabalhados, tais como carteira de trabalho, carnês de contribuição e outros comprovantes de pagamento ao INSS.
+
+		\n\nAlém disso, o trabalhador deve apresentar, na data da perícia médica e do serviço social do INSS, os documentos que comprovem a deficiência e a data em que esta condição se iniciou.
+
+		\n\n\nÉ possível solicitar pelo site do INSS, Central 135 ou aplicativo Meu INSS no celular.
+
+
+	</string>
+
+
+    <string name="apo_tempo_especial">
+
+		A aposentadoria especial é um benefício concedido ao cidadão que trabalha exposto a agentes nocivos à saúde, como calor ou ruído, de forma contínua e ininterrupta, em níveis de exposição acima dos limites estabelecidos em legislação própria.
+
+		\n\nÉ possível aposentar-se após cumprir 25, 20 ou 15 anos de contribuição, conforme o agente nocivo.
+
+		\n\nAlém do tempo de contribuição, é necessário que o cidadão tenha efetivamente trabalhado por, no mínimo, 180 meses. Períodos de auxílio-doença, por exemplo, não são considerados para cumprir este requisito.
+
+		\n\nPara requerer este benefício, você deve selecionar aposentadoria por tempo de contribuição na hora do agendamento.
+
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\nTempo total de contribuição  de 25, 20 ou 15 anos, conforme o caso, exposto aos agentes nocivos especificados em lei. A exposição deve ser contínua e ininterrupta durante a jornada de trabalho.
+
+		\n\nMínimo de 180 meses de efetiva atividade, para fins de carência.
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nPara ser atendido nas agências do INSS, deve apresentar um documento de identificação com foto e o número do CPF. É importante, também, que você apresente documentos que comprovem os seus períodos trabalhados, como carteira profissional, carnês de contribuição e outros comprovantes de pagamento ao INSS.
+	
+		\n\nPara a aposentadoria especial, é fundamental que o trabalhador apresente os documentos que comprovem a exposição a agentes nocivos, como o Perfil Profissiográfico Previdenciário (PPP), fornecido pelos empregadores.
+
+
+		\n\n\nÉ possível solicitar pelo site do INSS, Central 135 ou aplicativo Meu INSS no celular.
+
+
+
+	</string>
+
+
+    <string name="apo_tempo_proporcional">
+
+		A aposentadoria por tempo de contribuição é um benefício devido ao cidadão que comprovar o tempo total de 35 anos de contribuição, se homem, ou 30 anos de contribuição, se mulher.
+
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\nIdade mínima de 48 anos (mulher) e 53 anos (homem)
+
+		\n\nTempo total de contribuição
+
+		\n\n25 anos de contribuição + adicional (mulher)
+		\n30 anos de contribuição + adicional (homem)
+		\n180 meses contribuídos, para efeito de carência
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nDocumento de identificação válido e oficial com foto
+		\nNúmero do CPF
+		\nCarteiras de trabalho, carnês de contribuição e outros documentos que comprovem pagamento ao INSS.
+
+		\n\n<b>OBS:o adicional de tempo citado na regra transitória corresponde a 40% do tempo que faltava para o cidadão atingir o tempo mínimo da proporcional que era exigido em 16/12/1998 (30 anos para homem e 25 para mulher). Exemplo: um homem que tinha 20 anos de contribuição nessa data, precisava de 10 para aposentar-se pela proporcional. Logo, para aposentar-se pela proporcional hoje, deverá comprovar 34 anos (30 anos + 40% de 10 anos).</b>
+
+		\n\n\nÉ possível solicitar pelo site do INSS, Central 135 ou aplicativo Meu INSS no celular.
+
+
+	</string>
+
+
+    <string name="apo_tempo_integral">
+
+		A aposentadoria por tempo de contribuição é um benefício devido ao cidadão que comprovar o tempo total de 35 anos de contribuição, se homem, ou 30 anos de contribuição, se mulher.
+
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\nNão há idade mínima
+		\nTempo total de contribuição
+		\n35 anos de contribuição (homem)
+		\n30 anos de contribuição (mulher)
+		\n180 meses efetivamente trabalhados, para efeito de carência
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nDocumento de identificação válido e oficial com foto
+		\nNúmero do CPF
+		\nCarteiras de trabalho, carnês de contribuição e outros documentos que comprovem pagamento ao INSS
+
+		\n\n\nÉ possível solicitar pelo site do INSS, Central 135 ou aplicativo Meu INSS no celular.
+
+
+	</string>
+
+
+    <string name="apo_idade_urbana">
+
+		A aposentadoria por idade é um benefício devido ao trabalhador que comprovar o mínimo de 180 meses(15 anos) de contribuição, além da idade mínima de 65 anos, se homem, ou 60 anos, se mulher.
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\n180 meses de contribuição (15 anos contribuídos).
+		\n60 anos de idade para mulher e 65 anos de idade para homem.
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nDocumento de identificação válido e oficial com foto
+		\nNúmero do CPF
+		\nCarteiras de trabalho, carnês de contribuição e outros documentos que comprovem pagamento ao INSS
+
+		\n\n\nÉ possível solicitar pelo site do INSS, Central 135 ou aplicativo Meu INSS no celular.
+
+		\n\nOBS: Quando for solicitar essa aposentadoria pela Central 135, o titular têm que estar em linha. Por hipótese alguma terceiros podem requerer essa aposentadoria pela Central 135.
+
+
+	</string>
+
+
+    <string name="apo_idade_rural">
+
+		A aposentadoria por idade rural é um benefício devido ao trabalhador que comprovar o mínimo de 180 meses(15 anos) de trabalho, além da idade mínima de 60 anos, se homem, ou 55 anos, se mulher. 
+
+		\n\n\n<b>CRITÉRIOS PARA SOLICITAR O BENEFÍCIO</b>
+
+		\n\n180 meses de contribuição (15 anos contribuídos) na condição de segurado especial.
+		\n55 anos de idade para mulher e 60 anos de idade para homem.
+
+		\n\nOBS: o trabalhador deve estar exercendo atividade nesta condição no momento da solicitação do benefício. 
+
+
+		\n\n\n<b>DOCUMENTOS PARA SOLICITAR</b>
+
+		\n\nDocumento de identificação válido e oficial com foto
+		\nNúmero do CPF
+		\nDocumentos que comprovem esta situação, como a declaração do sindicato, contratos de arrendamento, documentos da época em que conste a sua ocupação, entre outros.
+
+		\n\n\nÉ possível solicitar pelo site do INSS, Central 135 ou aplicativo Meu INSS no celular.
+
+
+	</string>
+
+	<string name="sobre">
+
+		App desenvolvido pela Equipe Bezerra da Silva.
+		\n\nVersão 1.0
+		\n\n© 2018 Todos os direitos reservados.
+
+
+
+	</string>
+
+
+</resources>

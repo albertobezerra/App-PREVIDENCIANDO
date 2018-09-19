@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="equipebezerradasilva.previdenciando">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".splash"
+            android:theme="@style/AppCompat.Tela_Cheia">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".estacionario"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- APOSENTADORIAS -->
+
+        <activity
+            android:name=".aposentadorias"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- APOSENTADORIAS POR IDADE -->
+        <activity
+            android:name=".apo_idade"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".apo_idade_urbana"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".apo_idade_rural"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".apo_idade_deficiente"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- APOSENTADORIAS POR TEMPO DE CONTRIBUICAO -->
+        <activity
+            android:name=".apo_tempo"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".apo_tempo_integral"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".apo_tempo_proporcional"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".apo_tempo_especial"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".apo_tempo_professor"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".apo_tempo_deficiente"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".apo_invalidez"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- AUXILIO DOENCA -->
+
+        <activity
+            android:name=".aux_doenca"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".aux_doenca_previdenciario"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".aux_doenca_acidentario"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- SALARIO MATERNIDADE -->
+        <activity
+            android:name=".sal_maternidade"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".sal_maternidade_urbano"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".sal_maternidade_rural"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- LOAS -->
+        <activity
+            android:name=".loas"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".loas_idoso"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".loas_deficiente"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- PENSOES -->
+
+        <activity
+            android:name=".pensoes"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".pensao_alimenticia"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".pensao_por_morte"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".pensao_por_morte_urbana"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".pensao_por_morte_rural"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".aux_acidentario"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".aux_reclusao"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- AGENDAMENTOS -->
+
+        <activity
+            android:name=".agendamentos"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".agendar_apo_idade_maternidade_urbanas"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".agendar_aux_doenca"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".agendar_beneficios"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+
+
+        <activity android:name=".sobre"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+
+
+
+    </application>
+
+</manifest>
