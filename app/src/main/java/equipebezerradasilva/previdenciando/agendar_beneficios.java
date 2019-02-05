@@ -23,7 +23,7 @@ public class agendar_beneficios extends AppCompatActivity {
         mWebView = (WebView) findViewById(R.id.web_beneficios);
         WebSettings webSettings = mWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        mWebView.loadUrl("http://agendamento.inss.gov.br/saginternet/pages/agendamento/selecionarServico.xhtml");
+        mWebView.loadUrl("https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss");
         mWebView.setWebViewClient(new WebViewClient()); // bloqueia abrir forar do webview - bloqueia navegador externo //
     }
 

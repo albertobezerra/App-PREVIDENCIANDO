@@ -1,6 +1,6 @@
 buildscript {
     repositories {
-        maven { url 'https://plugins.gradle.org/m2/'}
+        maven { url 'https://plugins.gradle.org/m2/' }
     }
     dependencies {
         classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:[0.11.0, 0.99.99]'
@@ -18,13 +18,13 @@ android {
     compileSdkVersion 27
     defaultConfig {
         applicationId "equipebezerradasilva.previdenciando"
-        manifestPlaceholders = [onesignal_app_id: "d6ca4e76-3c3f-485d-a2cd-2ded78446eee",
+        manifestPlaceholders = [onesignal_app_id               : "d6ca4e76-3c3f-485d-a2cd-2ded78446eee",
                                 // Project number pulled from dashboard, local value is ignored.
                                 onesignal_google_project_number: "657296820874"]
         minSdkVersion 19
         targetSdkVersion 26
-        versionCode 3
-        versionName "1.1"
+        versionCode 4
+        versionName "1.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

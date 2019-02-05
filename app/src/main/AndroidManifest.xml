@@ -13,6 +13,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".resultadopericia"
+            android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".splash"
             android:theme="@style/AppCompat.Tela_Cheia">
@@ -24,15 +26,10 @@
         </activity>
         <activity
             android:name=".estacionario"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-
-        <!-- APOSENTADORIAS -->
-
+            android:theme="@style/AppCompat.Tela_Cheia" /> <!-- APOSENTADORIAS -->
         <activity
             android:name=".aposentadorias"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-
-        <!-- APOSENTADORIAS POR IDADE -->
+            android:theme="@style/AppCompat.Tela_Cheia" /> <!-- APOSENTADORIAS POR IDADE -->
         <activity
             android:name=".apo_idade"
             android:theme="@style/AppCompat.Tela_Cheia" />
@@ -44,9 +41,7 @@
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".apo_idade_deficiente"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-
-        <!-- APOSENTADORIAS POR TEMPO DE CONTRIBUICAO -->
+            android:theme="@style/AppCompat.Tela_Cheia" /> <!-- APOSENTADORIAS POR TEMPO DE CONTRIBUICAO -->
         <activity
             android:name=".apo_tempo"
             android:theme="@style/AppCompat.Tela_Cheia" />
@@ -67,10 +62,7 @@
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".apo_invalidez"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-
-        <!-- AUXILIO DOENCA -->
-
+            android:theme="@style/AppCompat.Tela_Cheia" /> <!-- AUXILIO DOENCA -->
         <activity
             android:name=".aux_doenca"
             android:theme="@style/AppCompat.Tela_Cheia" />
@@ -79,9 +71,7 @@
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".aux_doenca_acidentario"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-
-        <!-- SALARIO MATERNIDADE -->
+            android:theme="@style/AppCompat.Tela_Cheia" /> <!-- SALARIO MATERNIDADE -->
         <activity
             android:name=".sal_maternidade"
             android:theme="@style/AppCompat.Tela_Cheia" />
@@ -90,9 +80,7 @@
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".sal_maternidade_rural"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-
-        <!-- LOAS -->
+            android:theme="@style/AppCompat.Tela_Cheia" /> <!-- LOAS -->
         <activity
             android:name=".loas"
             android:theme="@style/AppCompat.Tela_Cheia" />
@@ -101,10 +89,7 @@
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".loas_deficiente"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-
-        <!-- PENSOES -->
-
+            android:theme="@style/AppCompat.Tela_Cheia" /> <!-- PENSOES -->
         <activity
             android:name=".pensoes"
             android:theme="@style/AppCompat.Tela_Cheia" />
@@ -125,10 +110,7 @@
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".aux_reclusao"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-
-        <!-- AGENDAMENTOS -->
-
+            android:theme="@style/AppCompat.Tela_Cheia" /> <!-- AGENDAMENTOS -->
         <activity
             android:name=".agendamentos"
             android:theme="@style/AppCompat.Tela_Cheia" />
@@ -141,15 +123,9 @@
         <activity
             android:name=".agendar_beneficios"
             android:theme="@style/AppCompat.Tela_Cheia" />
-
-
-
-        <activity android:name=".sobre"
+        <activity
+            android:name=".sobre"
             android:theme="@style/AppCompat.Tela_Cheia" />
-
-
-
-
     </application>
 
 </manifest>

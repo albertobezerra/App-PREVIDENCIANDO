@@ -27,7 +27,7 @@ public class estacionario extends AppCompatActivity implements Runnable {
 
             int[] lista = new int[]{
 
-                    R.drawable.agende_aqui, R.drawable.menu_aposentadorias, R.drawable.menu_auxiliodoenca, R.drawable.menu_salariomaternidade,
+                    R.drawable.agende_aqui, R.drawable.resultado, R.drawable.menu_aposentadorias, R.drawable.menu_auxiliodoenca, R.drawable.menu_salariomaternidade,
                     R.drawable.menu_loas, R.drawable.menu_pensoes, R.drawable.menu_auxilio_acidente, R.drawable.menu_auxilioreclusao, R.drawable.sobre
 
             };
@@ -47,43 +47,48 @@ public class estacionario extends AppCompatActivity implements Runnable {
                 }
 
                 if (position == 1) {
-                    Intent myIntent = new Intent(view.getContext(), aposentadorias.class);
+                    Intent myIntent = new Intent(view.getContext(), resultadopericia.class);
                     startActivityForResult(myIntent, 1);
                 }
 
                 if (position == 2) {
-                    Intent myIntent = new Intent(view.getContext(), aux_doenca.class);
+                    Intent myIntent = new Intent(view.getContext(), aposentadorias.class);
                     startActivityForResult(myIntent, 2);
                 }
 
                 if (position == 3) {
-                    Intent myIntent = new Intent(view.getContext(), sal_maternidade.class);
+                    Intent myIntent = new Intent(view.getContext(), aux_doenca.class);
                     startActivityForResult(myIntent, 3);
                 }
 
                 if (position == 4) {
-                    Intent myIntent = new Intent(view.getContext(), loas.class);
+                    Intent myIntent = new Intent(view.getContext(), sal_maternidade.class);
                     startActivityForResult(myIntent, 4);
                 }
 
                 if (position == 5) {
-                    Intent myIntent = new Intent(view.getContext(), pensoes.class);
+                    Intent myIntent = new Intent(view.getContext(), loas.class);
                     startActivityForResult(myIntent, 5);
                 }
 
                 if (position == 6) {
-                    Intent myIntent = new Intent(view.getContext(), aux_acidentario.class);
+                    Intent myIntent = new Intent(view.getContext(), pensoes.class);
                     startActivityForResult(myIntent, 6);
                 }
 
                 if (position == 7) {
-                    Intent myIntent = new Intent(view.getContext(), aux_reclusao.class);
+                    Intent myIntent = new Intent(view.getContext(), aux_acidentario.class);
                     startActivityForResult(myIntent, 7);
                 }
 
                 if (position == 8) {
+                    Intent myIntent = new Intent(view.getContext(), aux_reclusao.class);
+                    startActivityForResult(myIntent, 8);
+                }
+
+                if (position == 9) {
                     Intent myIntent = new Intent(view.getContext(), sobre.class);
-                    startActivityForResult(myIntent, 7);
+                    startActivityForResult(myIntent, 9);
                 }
 
 
