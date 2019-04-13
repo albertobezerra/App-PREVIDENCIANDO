@@ -23,8 +23,8 @@ android {
                                 onesignal_google_project_number: "657296820874"]
         minSdkVersion 19
         targetSdkVersion 26
-        versionCode 4
-        versionName "1.2"
+        versionCode 5
+        versionName "1.2.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
